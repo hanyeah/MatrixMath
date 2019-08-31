@@ -1,9 +1,9 @@
 {
   "name": "MatrixMath",
-  "main": "lib/MatrixMath.js",
+  "main": "./lib/MatrixMath.js",
   "version": "0.0.0",
   "description": "hanyeah's matrix math",
-  "typings": "lib/MatrixMath.d.ts",
+  "typings": "./lib/MatrixMath.d.ts",
   "author": "hanyeah <hanlidong@yeah.net> (http://hanyeah.com)",
   "scripts":{
     "start": "npm run build && npm run server",
