@@ -1,10 +1,10 @@
 {
   "name": "MatrixMath",
-  "main": "./lib/MatrixMath.js",
+  "main": "./dist/MatrixMath.js",
   "version": "0.0.0",
   "description": "hanyeah's matrix math",
-  "types": "./lib/MatrixMath.d.ts",
-  "typings": "./lib/MatrixMath.d.ts",
+  "types": "./dist/MatrixMath.d.ts",
+  "typings": "./dist/MatrixMath.d.ts",
   "author": "hanyeah <hanlidong@yeah.net> (http://hanyeah.com)",
   "scripts":{
     "start": "npm run build && npm run server",
